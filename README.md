@@ -4,3 +4,7 @@
 * Day1 document : https://principled-quesadilla-634.notion.site/Unity-1-780ea1fd951d45c8802e471021c863f7
 ----------------------------------------------------------------------------------------------------------------------
 * Day 2 document : https://principled-quesadilla-634.notion.site/Unity-2-8037ceb9bc864c96bc9df792a724aa9d 
+* Object Pool Description : https://principled-quesadilla-634.notion.site/Unity-2-Object-Pool-32fe1294654748c591121bcb7adcad82
+----------------------------------------------------------------------------------------------------------------------
+* Day 3 unitypackage : https://mega.nz/file/XOgTFABK#Po4SYjmK1S6jBcp5E52-oto701RyNWIcyaMmVgFDvMc
+* Day 3 document : https://principled-quesadilla-634.notion.site/Unity-3-34c40fc50f5d4ee38fafc58b0a8381e5
