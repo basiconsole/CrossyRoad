@@ -8,3 +8,7 @@
 ----------------------------------------------------------------------------------------------------------------------
 * Day 3 unitypackage : https://mega.nz/file/XOgTFABK#Po4SYjmK1S6jBcp5E52-oto701RyNWIcyaMmVgFDvMc
 * Day 3 document : https://principled-quesadilla-634.notion.site/Unity-3-34c40fc50f5d4ee38fafc58b0a8381e5
+----------------------------------------------------------------------------------------------------------------------
+* Day 4 unitypackage : https://mega.nz/file/bWAE2JSI#HEe0yD3VB2GCS-uN4ccgyvICB6k3_QMsmcb0gun7y44
+* Day 4 document : https://principled-quesadilla-634.notion.site/Unity-4-83cab3347dcf460f8026fb78fd35ab84
+
