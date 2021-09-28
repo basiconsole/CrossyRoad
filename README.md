@@ -14,4 +14,6 @@
 ----------------------------------------------------------------------------------------------------------------------
 * Day5 unitypackage : https://mega.nz/file/aXQkSbrL#gQg05cJNPgLceUxr6oo4vcRRuIrfmBbPpqPj2Kmj0-g
 * Day5 document : https://principled-quesadilla-634.notion.site/Unity-5-117da1cfa31b4d40a9ba87ccd93427c4
-
+----------------------------------------------------------------------------------------------------------------------
+* Day6 unitypackage : https://mega.nz/file/6aoCTajR#M_UFf4Xkmd68BC6NCxdV2r3TRWBaUr4oJ_L64kzmvZs
+* Day6 document : https://principled-quesadilla-634.notion.site/Unity-6-65ea4f6c105a42b29708d0e4dbbafc6d
