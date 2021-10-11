@@ -20,3 +20,6 @@
 ----------------------------------------------------------------------------------------------------------------------
 * Day7 unitypackage : https://mega.nz/file/bfoS0RzT#3nLr3cGbB3OLeOjl7riQ19ZY8r6jZ3eb6XEvHl86Qt0
 * Day7 document : https://principled-quesadilla-634.notion.site/Unity-7-2192f0ae57fd4a929f04b626b1bac1cc
+----------------------------------------------------------------------------------------------------------------------
+* Day8 unitypackage : https://mega.nz/file/vS40kbJQ#9AbRNPrMYdCOtwwPGUzAz6fGrEv_0z_boCC4lqy9u6U
+* Day8 document : https://principled-quesadilla-634.notion.site/Unity-8-4ee88e31b86d4d3185c39d7e33dd694b
