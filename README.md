@@ -26,3 +26,6 @@
 ----------------------------------------------------------------------------------------------------------------------
 * Day9 unitypackage : https://mega.nz/file/DbQABBIR#ySIKrK75K0vyagh0v07onvsqvNsIKZ-GXCFewclZneg
 * Day9 document : https://principled-quesadilla-634.notion.site/Unity-9-17f44925dff7495da232eef5068a7213
+----------------------------------------------------------------------------------------------------------------------
+* Day10 unitypackage : https://mega.nz/file/uDgAwA4a#RI2BOtOQiL5SWoCFoyrctJKAadXzSvC-TSorp8vw-FQ
+* Day10 document : https://principled-quesadilla-634.notion.site/Unity-10-9-1865b120110d46b7a7e5aa49dc3aad77
